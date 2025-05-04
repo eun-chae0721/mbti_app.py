@@ -1,5 +1,4 @@
 import streamlit as st
-stremlit run your_app.py
 
 st.set_page_config(page_title="AI가 뽑은 나의 MBTI", layout="centered")
 
